@@ -28,8 +28,7 @@ Create an account in https://www.themoviedb.org/. Once you successfully created 
 
 ## Architecture
 
-![Recommendation App](![Screenshot_20221220_200953](https://user-images.githubusercontent.com/81567570/209289302-03d89e36-db97-404f-ae90-7c34148dfcd5.png))
-
+![Recommendation App](![Screenshot_20221220_200953])
 ## Similarity Score : 
 
    **How does it decide which item is most similar to the item user likes(or selects in our case)?** Here comes the similarity scores.
