@@ -28,7 +28,11 @@ Create an account in https://www.themoviedb.org/. Once you successfully created 
 
 ## Architecture
 
-![Recommendation App](![Screenshot_20221220_200953])
+![Recommendation App]
+![Screenshot_20221220_200953](https://user-images.githubusercontent.com/81567570/209290682-44357cf9-6c5f-42a5-a1d1-d0ea107f9359.png)
+![Screenshot_20221220_202341](https://user-images.githubusercontent.com/81567570/209290768-a9945371-b6af-4ef7-943d-f800497083cb.png)
+![Screenshot_20221220_201128](https://user-images.githubusercontent.com/81567570/209290747-bce7331e-4675-451b-ada4-2bf09e4c6eb4.png)
+
 ## Similarity Score : 
 
    **How does it decide which item is most similar to the item user likes(or selects in our case)?** Here comes the similarity scores.
@@ -50,4 +54,6 @@ More about Cosine Similarity : [Understanding the Math behind Cosine Similarity]
 3. [List of movies in 2018](https://en.wikipedia.org/wiki/List_of_American_films_of_2018)
 4. [List of movies in 2019](https://en.wikipedia.org/wiki/List_of_American_films_of_2019)
 5. [List of movies in 2020](https://en.wikipedia.org/wiki/List_of_American_films_of_2020)
+
+
 
