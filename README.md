@@ -28,13 +28,13 @@ Create an account in https://www.themoviedb.org/. Once you successfully created 
 
 ## Architecture
 
-![Recommendation App]
+### Recommendation App
 ![Screenshot_20221220_200953](https://user-images.githubusercontent.com/81567570/209290682-44357cf9-6c5f-42a5-a1d1-d0ea107f9359.png)
-![By searching]
+### By searching
 
 ![Screenshot_20221220_202341](https://user-images.githubusercontent.com/81567570/209290768-a9945371-b6af-4ef7-943d-f800497083cb.png)
 
-![Results]
+### Results
 ![Screenshot_20221220_201128](https://user-images.githubusercontent.com/81567570/209290747-bce7331e-4675-451b-ada4-2bf09e4c6eb4.png)
 
 ## Similarity Score : 
