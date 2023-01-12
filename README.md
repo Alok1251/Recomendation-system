@@ -7,17 +7,10 @@
 
 A content-based recommender system that recommends movies similar to the movie the user likes and analyses the sentiments of the reviews given by the user.
 
-Check out the live demo: https://tmc.kishanlal.dev
-
-Link to youtube demo: https://www.youtube.com/watch?v=dhVePtyECFw
-
 ## Overview
 
 The movies are recommended based on the content of the movie you entered or selected. The main parameters that are considered for the recommendations are the genre, director, and top 3 casts. The details of the movies, such as title, genre, runtime, rating, poster, casts, etc., are fetched from [TMDB](https://www.themoviedb.org/documentation/api). The reviews of each individual movie given by the users are "web-scraped" from the IMDB website with the help of `beautifulsoup4`, and the reviews are subjected to sentiment analysis, where the model predicts whether the review is positive or negative.
 
-## Featured in Krish's Live Session on YouTube
-
-[![krish youtube](https://github.com/kishan0725/AJAX-Movie-Recommendation-System-with-Sentiment-Analysis/blob/master/static/krish-naik.PNG)](https://www.youtube.com/watch?v=A_78fGgQMjM)
 
 ## How to get the API key?
 
@@ -35,7 +28,14 @@ Create an account in https://www.themoviedb.org/. Once you successfully created 
 
 ## Architecture
 
-![Recommendation App](https://user-images.githubusercontent.com/36665975/168742738-5435cf76-1a42-4d87-94b4-999e5bfc48d3.png)
+### Recommendation App
+![Screenshot_20221220_200953](https://user-images.githubusercontent.com/81567570/209290682-44357cf9-6c5f-42a5-a1d1-d0ea107f9359.png)
+### By searching
+
+![Screenshot_20221220_202341](https://user-images.githubusercontent.com/81567570/209290768-a9945371-b6af-4ef7-943d-f800497083cb.png)
+
+### Results
+![Screenshot_20221220_201128](https://user-images.githubusercontent.com/81567570/209290747-bce7331e-4675-451b-ada4-2bf09e4c6eb4.png)
 
 ## Similarity Score : 
 
@@ -58,4 +58,6 @@ More about Cosine Similarity : [Understanding the Math behind Cosine Similarity]
 3. [List of movies in 2018](https://en.wikipedia.org/wiki/List_of_American_films_of_2018)
 4. [List of movies in 2019](https://en.wikipedia.org/wiki/List_of_American_films_of_2019)
 5. [List of movies in 2020](https://en.wikipedia.org/wiki/List_of_American_films_of_2020)
+
+
 
